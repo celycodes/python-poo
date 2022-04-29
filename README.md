@@ -8,3 +8,13 @@
 - [ POO Teoria - Curso em Video](https://www.youtube.com/playlist?list=PL6qsRzBhn4BlSiDHoGWLj6Op4Ika8zjIC)
 - [Python Orientado a Objetos - Gustavo Miranda](https://www.youtube.com/playlist?list=PLbIBj8vQhvm34qAAEEH_PdL2tMG9rz-P7)
 - [ O Melhor Curso de Python - Zurubabel](https://www.youtube.com/playlist?list=PL4OAe-tL47sY8SGhtkGoP0eQd4le3badz)
+
+#### Caso queira um  realizar um projeto comigo (ou até mesmo bater papo), não hesite em me enviar uma mensagem, acesse o link das minhas redes sociais abaixo: ⤵️
+
+- [Instagram](https://www.instagram.com/celycodes)
+
+- [Twitter](https://twitter.com/ceIenny)
+
+- [GitHub](https://github.com/celenny)
+
+- [LinkedIn](https://www.linkedin.com/in/celenny)
